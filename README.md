@@ -4,7 +4,6 @@
 Étudiant en **3ème année** à l'**Ecole Nationale d'Informatique (ENI)** , passionné par le développement logiciel et les nouvelles technologies. Curieux, autodidacte et toujours prêt à relever de nouveaux défis techniques.
 
 - 🌍 Basé à Madagascar
-- 💻 En quête d'un **stage de fin d'études**
 - 🎯 Objectif : Devenir ingénieur en développement logiciel
 - 📚 Langues : Français, Anglais.
 
